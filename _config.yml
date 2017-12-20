@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Kristin Coding
 header-img: img/home-bg.png
 email: itskristin.ortiz@gmail.com
 copyright_name: 1krisortiz1
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey through the Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  1krisortiz1
