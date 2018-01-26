@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "formatted like this"
-date:       2017-12-26 03:10:49 +0000
+title:      "Why Web Development?"
+date:       2017-12-25 22:10:50 -0500
 permalink:  formatted_like_this
 ---
 
