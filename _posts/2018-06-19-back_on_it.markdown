@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Back On It"
-date:       2018-06-19 15:06:46 +0000
+date:       2018-06-19 11:06:47 -0400
 permalink:  back_on_it
 ---
 
 
 I took a short time from the program to work on a few personal things which haven't resolved but I needed a break from something.  When I last logged on I was working on my Tic Tac Toe with AI project and I was struggling a bit near the end.  I'm eager to get back into the program and continue on to the next section to grow as a developer :) :)  I like being able to call my self that!! My next blog post will include the code I struggled with along with how I finally reached passing code.  
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmemegenerator.net%2Fimg%2Finstances%2F66666201.jpg&imgrefurl=https%3A%2F%2Fmemegenerator.net%2Finstance%2F66666201%2Fwilly-wonka-till-next-time&docid=5ry1tPHJRcnmCM&tbnid=uidVNbYxHyhHCM%3A&vet=10ahUKEwit1r-PgODbAhXJjVQKHRg0DeYQMwg1KAIwAg..i&w=1080&h=1080&bih=770&biw=1536&q=till%20next%20time%20meme&ved=0ahUKEwit1r-PgODbAhXJjVQKHRg0DeYQMwg1KAIwAg&iact=mrc&uact=8http://)
+Until Next Time!!
 
 
