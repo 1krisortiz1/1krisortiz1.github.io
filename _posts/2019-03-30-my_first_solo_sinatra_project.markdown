@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Solo Sinatra Project"
-date:       2019-03-31 01:45:28 +0000
+date:       2019-03-30 21:45:29 -0400
 permalink:  my_first_solo_sinatra_project
 ---
 
@@ -10,7 +10,9 @@ permalink:  my_first_solo_sinatra_project
 ## Intro to me
 My Learn.co journey has been an interesting one, interesting to me at least :).  There have been many ups and downs for me throughout this journey but I pushed through and reached the Sinatra project section of the curriculum and while it was nerve wrecking to start from scratch and a little challenging throughout, I had so much fun!  
 
- ![cactus](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdu_OJafF8tOFPmoMe7nyvBSh_CdCpSQnlHOCIfR7G2-kMbLxy)  ![Flower](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngZkCHCV-t-pmt4U_Lx0_N-sXOQIZNDwlmULtwA2eN8Pi1kvY)
+ ![cactus](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdu_OJafF8tOFPmoMe7nyvBSh_CdCpSQnlHOCIfR7G2-kMbLxy)  
+ 
+ ![Flower](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngZkCHCV-t-pmt4U_Lx0_N-sXOQIZNDwlmULtwA2eN8Pi1kvY)
 
 So, I moved to Arizona about 10 years ago and whenever I was asked about living here I always talked about wanting to leave…but I never did.  An maybe it's just me getting older, or maybe AZ has started to grow on me but recently I've really appreciated the beauty of the desert.  Cactus are beautiful in their own way and the desert mountains have this really beautiful look about them during sunrise and sunset.  As a result of my new found love of desert plants I found myself taking random pictures of desert plants and sunrises so I decided to build a Sinatra application similar to pinterest or Instagram where users are able to create an account to share the things that they love, specifically desert plants and cactus. 
 
