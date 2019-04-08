@@ -18,7 +18,7 @@ So, I moved to Arizona about 10 years ago and whenever I was asked about living 
 
 ## The wonderful `corneal gem`
 
-Luckily we were introduced to the `corneal gem` created by Brian Emory.  As a newbie to coding,  I was really grateful! So, the corneal gem is a Sinatra app generator that uses a file structure similar to what you see with Rails.  
+Luckily we were introduced to the `corneal gem` built by Brian Emory.  As a newbie to coding,  I was really grateful! So, the corneal gem is a Sinatra app generator that uses a file structure similar to what you see with Rails.  
 
 To install, run 
 ```
